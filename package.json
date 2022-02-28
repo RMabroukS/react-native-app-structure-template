@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template-ts",
+  "name": "react-native-app-structure-template",
   "version": "1.0.0",
   "description": "React Native template",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RMabroukS/react-native-template-ts.git"
+    "url": "git+https://github.com/RMabroukS/react-native-app-structure-template.git"
   },
   "keywords": [
     "react-native app structure",
@@ -25,7 +25,7 @@
   "author": "Ragab Mabrouk <r.mabrouk.sayed@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RMabroukS/react-native-template-ts/issues"
+    "url": "https://github.com/RMabroukS/react-native-app-structure-template/issues"
   },
-  "homepage": "https://github.com/RMabroukS/react-native-template-ts#readme"
+  "homepage": "https://github.com/RMabroukS/react-native-app-structure-template#readme"
 }
