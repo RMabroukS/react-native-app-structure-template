@@ -1,5 +1,5 @@
 module.exports = {
-    placeholderName: "rntemplate",
+    placeholderName: "RNTemplate",
     templateDir: "./template",
-
+    postInitScript: "./script.js"
 };
