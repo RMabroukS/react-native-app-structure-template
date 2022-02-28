@@ -1,0 +1,31 @@
+{
+  "name": "react-native-ts-template",
+  "version": "1.0.0",
+  "description": "React Native template",
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMabroukS/react-native-ts-template.git"
+  },
+  "keywords": [
+    "react-native app structure",
+    "react-native folders",
+    "best react-native folder structure",
+    "typescript",
+    "template",
+    "boilerplate",
+    "make project structure"
+  ],
+  "author": "Ragab Mabrouk <r.mabrouk.sayed@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RMabroukS/react-native-ts-template/issues"
+  },
+  "homepage": "https://github.com/RMabroukS/react-native-ts-template#readme"
+}
