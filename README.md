@@ -1,10 +1,10 @@
 # :space_invader: React Native App Structure Template
 
 <p>
-  <a href="https://github.com/RMabroukS/react-native-app-structure-template/tree/1.0.2">
-    <img alt="npm package" src="https://img.shields.io/badge/npm%20package-v1.0.2-green" />
+  <a href="https://github.com/RMabroukS/react-native-app-structure-template/tree/0.67.3">
+    <img alt="npm package" src="https://img.shields.io/badge/npm%20package-v0.0.1-green" />
   </a>
-   <a href="https://github.com/RMabroukS/react-native-app-structure-template/blob/1.0.2/LICENSE">
+   <a href="https://github.com/RMabroukS/react-native-app-structure-template/blob/0.67.3/LICENSE">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-orange" />
   </a>
 </p>

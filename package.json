@@ -1,6 +1,6 @@
 {
   "name": "react-native-app-structure-template",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "description": "React Native template",
   "scripts": {
     "test": ""
@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/RMabroukS/react-native-app-structure-template.git"
   },
-  
   "keywords": [
     "react-native app structure",
     "react-native folders",
